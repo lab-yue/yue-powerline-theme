@@ -1,0 +1,13 @@
+{
+  "segments": [
+    "virtual_env",
+    "username",
+    "time",
+    "ssh",
+    "cwd",
+    "hg",
+    "jobs",
+    "root"
+  ],
+   "theme": "/Users/USER/powerline-shell/build/lib/powerline_shell/themes/yue.py"
+}
