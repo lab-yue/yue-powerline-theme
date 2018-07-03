@@ -1,8 +1,15 @@
 # yue-powerline-theme
 theme for powerline-shell
 
+font: Meslo LG M Bold for Powerline 
+link: [github](https://github.com/powerline/fonts)
+
 ### Screenshot:
 ![](img/example.png)
+
+### Settings:
+
+![](img/setting.png)
 
 ---
 
