@@ -12,8 +12,6 @@ theme for powerline-shell
 
 Follow the instructions on [powerline-shell](https://github.com/b-ryan/powerline-shell) to install and config customization files
 
----
-
 #### 2. Setup 
 
 1. on Mac:  
