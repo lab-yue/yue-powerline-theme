@@ -5,7 +5,7 @@ font: Meslo LG M Bold for Powerline
 link: [github](https://github.com/powerline/fonts)
 
 ### Screenshot:
-![](img/example.png)
+![](img/example-2.png)
 
 ### Settings:
 
