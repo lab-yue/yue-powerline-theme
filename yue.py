@@ -1,12 +1,14 @@
 from powerline_shell.themes.default import DefaultColor
 
+white = 255
 black = 0
 font_color = 232
 green = 86
 blue = 153
+dark_blue = 31
 yellow = 230
 red = 198
-
+orange = 214
 
 class Color(DefaultColor):
     USERNAME_FG = font_color
@@ -50,20 +52,25 @@ class Color(DefaultColor):
     TIME_FG = font_color
     TIME_BG = yellow
 
-    """
+
+
     GIT_AHEAD_BG = 240
     GIT_AHEAD_FG = font_color
     GIT_BEHIND_BG = 240
     GIT_BEHIND_FG = font_color
     GIT_STAGED_BG = 194
     GIT_STAGED_FG = font_color
-    GIT_NOTSTAGED_BG = 189
+    GIT_NOTSTAGED_BG = 222
     GIT_NOTSTAGED_FG = font_color
-    GIT_UNTRACKED_BG = 160
-    GIT_UNTRACKED_FG = 15
+    GIT_UNTRACKED_BG = 222
+    GIT_UNTRACKED_FG = black
     GIT_CONFLICTED_BG = 9
     GIT_CONFLICTED_FG = font_color
 
+    REPO_CLEAN_BG = 60 
+    REPO_CLEAN_FG = 195 
+    REPO_DIRTY_BG = 60
+    REPO_DIRTY_FG = 195
+
     GIT_STASH_BG = 221
     GIT_STASH_FG = 0
-    """

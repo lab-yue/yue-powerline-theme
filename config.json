@@ -3,11 +3,15 @@
     "virtual_env",
     "username",
     "time",
-    "ssh",
     "cwd",
+    "ssh",
     "hg",
     "jobs",
+    "git",
     "root"
   ],
+  "cwd": {
+    "mode": "dironly"
+  },
    "theme": "/Users/USER/powerline-shell/build/lib/powerline_shell/themes/yue.py"
 }
